@@ -1,4 +1,4 @@
-# Squad Minha Moda Time TI
+# Squad Minha Moda na TI
 
 A pandemia foi um marco importante para a tecnologia no Brasil, muitas empresas que nunca pensaram em investir em tecnologia acabaram sendo obrigadas a realizar o investimento, com a ideia de se manter no mercado. Graças a isso o e-commerce teve um salto muito grande na participação de vendas no varejo.
 
