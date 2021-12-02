@@ -12,4 +12,4 @@ No desenvolvimento da Inteligência Artificial iremos utilizar algoritmos não s
 
 **Referências Bibliográficas**
 
-[1] Alvarenga, D. Com pandemia, comércio eletrônico tem salto em 2020 e dobra participação no varejo brasileiro. G1, 23 de fev. de 2020. Disponível em: https://g1.globo.com/economia/noticia/2021/02/26/com-pandemia-comercio-eletronico-tem-salto-em-2020-e-dobra-participacao-no-varejo-brasileiro.ghtml)
+[1] Alvarenga, D. Com pandemia, comércio eletrônico tem salto em 2020 e dobra participação no varejo brasileiro. G1, 23 de fev. de 2020. Disponível em: https://g1.globo.com/economia/noticia/2021/02/26/com-pandemia-comercio-eletronico-tem-salto-em-2020-e-dobra-participacao-no-varejo-brasileiro.ghtml
